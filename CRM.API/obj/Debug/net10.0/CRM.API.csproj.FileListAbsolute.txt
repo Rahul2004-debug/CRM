@@ -1,0 +1,294 @@
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\appsettings.json
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\CRM.API.staticwebassets.endpoints.json
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\CRM.API.exe
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\CRM.API.deps.json
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\CRM.API.runtimeconfig.json
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\CRM.API.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\CRM.API.pdb
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\BCrypt.Net-Next.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\Humanizer.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\Npgsql.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\CRM.API.csproj.AssemblyReference.cache
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\CRM.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\CRM.API.AssemblyInfoInputs.cache
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\CRM.API.AssemblyInfo.cs
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\CRM.API.csproj.CoreCompileInputs.cache
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\CRM.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\CRM.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\scopedcss\bundle\CRM.API.styles.css
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\CRM.API.csproj.Up2Date
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\CRM.API.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\refint\CRM.API.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\CRM.API.pdb
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\CRM.API.genruntimeconfig.cache
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\ref\CRM.API.dll
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\bin\Debug\net10.0\CRM.API.staticwebassets.runtime.json
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\compressed\9nfd7934ws-{0}-bcvbi90jlo-bcvbi90jlo.gz
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\compressed\c2qnp789m5-{0}-xbnvv490mg-xbnvv490mg.gz
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\compressed\c8vsztj8pb-{0}-vk84bszcgy-vk84bszcgy.gz
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\compressed\n8jlpqdoj8-{0}-wh40zu5nev-wh40zu5nev.gz
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\compressed\5sx34xloqo-{0}-3yu5t7uswe-3yu5t7uswe.gz
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\compressed\w2t7ewpvtd-{0}-y3ihe5mb7r-y3ihe5mb7r.gz
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\compressed\i8glczmbiz-{0}-jqd8guc5mn-jqd8guc5mn.gz
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\compressed\crobpqwgus-{0}-lqcveyq1x9-lqcveyq1x9.gz
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\compressed\ex06bc5hhx-{0}-fvsvhvp3m4-fvsvhvp3m4.gz
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\compressed\36vwc76g3c-{0}-3vt0uvfea5-3vt0uvfea5.gz
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\compressed\ascwrzb5qr-{0}-0sn4b4ph0j-0sn4b4ph0j.gz
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\compressed\z2cbsbwv95-{0}-mnj4e5ft4h-mnj4e5ft4h.gz
+C:\Users\Harshith.Gowda\Desktop\harshith\CRM-System\CRM.API\obj\Debug\net10.0\compressed\vx12dw3d7i-{0}-f40ij6mu10-f40ij6mu10.gz
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\appsettings.json
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\CRM.API.staticwebassets.runtime.json
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\CRM.API.staticwebassets.endpoints.json
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\CRM.API.exe
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\CRM.API.deps.json
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\CRM.API.runtimeconfig.json
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\CRM.API.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\CRM.API.pdb
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\BCrypt.Net-Next.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\Humanizer.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\Npgsql.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\CRM.API.csproj.AssemblyReference.cache
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\CRM.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\CRM.API.AssemblyInfoInputs.cache
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\CRM.API.AssemblyInfo.cs
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\CRM.API.csproj.CoreCompileInputs.cache
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\CRM.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\CRM.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\scopedcss\bundle\CRM.API.styles.css
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\compressed\w2t7ewpvtd-{0}-y3ihe5mb7r-y3ihe5mb7r.gz
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\compressed\z2cbsbwv95-{0}-mnj4e5ft4h-mnj4e5ft4h.gz
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\compressed\i8glczmbiz-{0}-jqd8guc5mn-jqd8guc5mn.gz
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\compressed\vx12dw3d7i-{0}-f40ij6mu10-f40ij6mu10.gz
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\compressed\9nfd7934ws-{0}-bcvbi90jlo-bcvbi90jlo.gz
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\compressed\36vwc76g3c-{0}-3vt0uvfea5-3vt0uvfea5.gz
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\compressed\crobpqwgus-{0}-lqcveyq1x9-lqcveyq1x9.gz
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\compressed\ex06bc5hhx-{0}-fvsvhvp3m4-fvsvhvp3m4.gz
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\compressed\n8jlpqdoj8-{0}-wh40zu5nev-wh40zu5nev.gz
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\compressed\5sx34xloqo-{0}-3yu5t7uswe-3yu5t7uswe.gz
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\compressed\c8vsztj8pb-{0}-vk84bszcgy-vk84bszcgy.gz
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\compressed\ascwrzb5qr-{0}-0sn4b4ph0j-0sn4b4ph0j.gz
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\compressed\c2qnp789m5-{0}-xbnvv490mg-xbnvv490mg.gz
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\CRM.API.csproj.Up2Date
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\CRM.API.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\refint\CRM.API.dll
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\CRM.API.pdb
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\CRM.API.genruntimeconfig.cache
+C:\Users\Rahul.Hadpad\Downloads\CRM-System 8\CRM-System\CRM.API\obj\Debug\net10.0\ref\CRM.API.dll

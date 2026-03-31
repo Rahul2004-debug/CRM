@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Contacts</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <div class="sidebar">
+        <h2>CRM</h2>
+        <a href="dashboard.html">Dashboard</a>
+        <a href="customers.html">Customers</a>
+        <a href="contacts.html">Contacts</a>
+        <a href="notes.html">Notes</a>
+    </div>
+
+    <div class="content">
+        <h1>Contacts</h1>
+
+        <!-- ADD CONTACT -->
+        <div class="card">
+
+            <!-- ✅ REQUIRED FIELD -->
+            <input id="customerId" type="number" placeholder="Enter Customer ID">
+
+            <input id="name" placeholder="Name">
+            <input id="position" placeholder="Position">
+            <input id="email" placeholder="Email">
+            <input id="phone" placeholder="Phone">
+
+            <button onclick="addContact()">Add Contact</button>
+
+            <div id="formMessage" class="message-box"></div>
+        </div>
+
+        <!-- TABLE -->
+        <div class="card">
+            <table>
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Customer ID</th>
+                        <th>Name</th>
+                        <th>Email</th>
+                        <th>Phone</th>
+                        <th>Position</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody id="contactTable"></tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="js/contacts.js?v=100"></script>
+
+</body>
+</html>

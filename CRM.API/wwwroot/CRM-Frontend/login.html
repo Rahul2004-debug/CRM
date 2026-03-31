@@ -1,0 +1,234 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <title>CRM Login</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Inter';
+            background: #020617;
+            color: white;
+            overflow: hidden;
+        }
+
+        /* 🔥 Animated background */
+        .background {
+            position: absolute;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle at 30% 30%, #6366f1, transparent), radial-gradient(circle at 70% 70%, #8b5cf6, transparent);
+            animation: moveBg 12s infinite alternate;
+            filter: blur(120px);
+        }
+
+        @keyframes moveBg {
+            from {
+                transform: translate(-20%, -20%);
+            }
+
+            to {
+                transform: translate(20%, 20%);
+            }
+        }
+
+        /* LAYOUT */
+        .container {
+            display: flex;
+            height: 100vh;
+            position: relative;
+            z-index: 2;
+        }
+
+        /* LEFT */
+        .left {
+            flex: 1;
+            padding: 80px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .title {
+            font-size: 40px;
+            font-weight: 600;
+        }
+
+        .highlight {
+            color: #6366f1;
+        }
+
+        .subtitle {
+            margin-top: 15px;
+            color: #cbd5f5;
+            font-size: 15px;
+        }
+
+        /* typing */
+        .typing {
+            margin-top: 20px;
+            font-size: 14px;
+            color: #a5b4fc;
+            border-right: 2px solid;
+            white-space: nowrap;
+            overflow: hidden;
+            width: 0;
+            animation: typing 4s steps(30, end) infinite alternate;
+        }
+
+        @keyframes typing {
+            from {
+                width: 0
+            }
+
+            to {
+                width: 260px
+            }
+        }
+
+        /* RIGHT */
+        .right {
+            width: 400px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        /* 🔥 FIXED CARD (HIGH CONTRAST) */
+        .card {
+            width: 100%;
+            padding: 35px;
+            border-radius: 20px;
+            background: rgba(15, 23, 42, 0.85);
+            backdrop-filter: blur(20px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.8), 0 0 20px rgba(99, 102, 241, 0.2);
+            animation: fadeUp 1s ease;
+        }
+
+        @keyframes fadeUp {
+            from {
+                opacity: 0;
+                transform: translateY(40px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .card h2 {
+            text-align: center;
+            color: #e0e7ff;
+        }
+
+        /* 🔥 INPUT FIX */
+        input {
+            width: 100%;
+            padding: 12px;
+            margin-top: 12px;
+            border-radius: 10px;
+            background: rgba(0, 0, 0, 0.6);
+            border: 1px solid rgba(255, 255, 255, 0.15);
+            color: white;
+            outline: none;
+            transition: 0.3s;
+        }
+
+            input::placeholder {
+                color: #9ca3af;
+            }
+
+            input:focus {
+                border: 1px solid #6366f1;
+                box-shadow: 0 0 8px rgba(99, 102, 241, 0.5);
+            }
+
+        /* 🔥 BUTTON FIX */
+        button {
+            width: 100%;
+            padding: 12px;
+            margin-top: 20px;
+            border-radius: 12px;
+            border: none;
+            background: linear-gradient(135deg, #6366f1, #8b5cf6);
+            color: white;
+            cursor: pointer;
+            font-weight: 500;
+            transition: 0.3s;
+        }
+
+            button:hover {
+                transform: translateY(-2px);
+                box-shadow: 0 10px 25px rgba(139, 92, 246, 0.5);
+            }
+
+        /* ERROR */
+        .error {
+            margin-top: 10px;
+            color: #f87171;
+            display: none;
+            text-align: center;
+        }
+
+        /* MOBILE */
+        @media(max-width: 900px) {
+            .left {
+                display: none;
+            }
+
+            .right {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="background"></div>
+
+    <div class="container">
+
+        <!-- LEFT -->
+        <div class="left">
+            <div class="title">
+                Manage Customers.<br>
+                <span class="highlight">Close Deals Faster.</span>
+            </div>
+
+            <div class="subtitle">
+                A smart CRM to track leads, manage contacts, and grow your business.
+            </div>
+
+            <div class="typing">
+                Track Leads • Manage Contacts • Boost Sales 🚀
+            </div>
+        </div>
+
+        <!-- RIGHT -->
+        <div class="right">
+            <div class="card">
+
+                <h2>Login</h2>
+
+                <input id="email" placeholder="Email">
+                <input id="password" type="password" placeholder="Password">
+
+                <div id="error" class="error"></div>
+
+                <button onclick="login()">Login</button>
+
+            </div>
+        </div>
+
+    </div>
+
+    <script src="js/auth.js"></script>
+
+</body>
+</html>

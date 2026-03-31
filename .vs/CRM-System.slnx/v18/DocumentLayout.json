@@ -1,0 +1,675 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Models\\Contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\Models\\Contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\wwwroot\\CRM-Frontend\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\js\\dashboard.js||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\wwwroot\\CRM-Frontend\\js\\dashboard.js||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\wwwroot\\CRM-Frontend\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\js\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\wwwroot\\CRM-Frontend\\js\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\wwwroot\\CRM-Frontend\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\wwwroot\\CRM-Frontend\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\js\\customers.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\wwwroot\\CRM-Frontend\\js\\customers.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\customers.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\wwwroot\\CRM-Frontend\\customers.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\js\\contacts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\wwwroot\\CRM-Frontend\\js\\contacts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\contacts.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\wwwroot\\CRM-Frontend\\contacts.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Controllers\\ContactsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\Controllers\\ContactsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Controllers\\CustomersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\Controllers\\CustomersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Helpers\\JwtHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\Helpers\\JwtHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Controllers\\DashboardController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\Controllers\\DashboardController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Models\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\Models\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\js\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\wwwroot\\CRM-Frontend\\js\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\js\\notes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\wwwroot\\CRM-Frontend\\js\\notes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\js\\dashboard.js||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\wwwroot\\CRM-Frontend\\js\\dashboard.js||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\notes.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\wwwroot\\CRM-Frontend\\notes.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Migrations\\20260318061451_AddFollowUp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\Migrations\\20260318061451_AddFollowUp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Migrations\\20260318100331_FollwUp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\Migrations\\20260318100331_FollwUp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Migrations\\20260318065008_FollowUp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\Migrations\\20260318065008_FollowUp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Migrations\\20260318035830_UpdateNotificationSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\Migrations\\20260318035830_UpdateNotificationSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\js\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\wwwroot\\CRM-Frontend\\js\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Controllers\\FollowUpController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\Controllers\\FollowUpController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Controllers\\LeadScoreController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\Controllers\\LeadScoreController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Migrations\\20260317112738_fixAddCreatedBy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\Migrations\\20260317112738_fixAddCreatedBy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Migrations\\20260317111544_AddCreatedBy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\Migrations\\20260317111544_AddCreatedBy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Controllers\\RemindersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\Controllers\\RemindersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Controllers\\NotificationsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\Controllers\\NotificationsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Migrations\\20260317035351_AddNotificationReminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\Migrations\\20260317035351_AddNotificationReminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Models\\Reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\Models\\Reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Models\\Notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\Models\\Notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Models\\Contact.cs",
+              "RelativeToolTip": "CRM.API\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T11:46:17.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dashboard.js",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\js\\dashboard.js",
+              "RelativeDocumentMoniker": "CRM.API\\wwwroot\\CRM-Frontend\\js\\dashboard.js",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\js\\dashboard.js",
+              "RelativeToolTip": "CRM.API\\wwwroot\\CRM-Frontend\\js\\dashboard.js",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAgwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-18T11:00:58.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "api.js",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\js\\api.js",
+              "RelativeDocumentMoniker": "CRM.API\\wwwroot\\CRM-Frontend\\js\\api.js",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\js\\api.js",
+              "RelativeToolTip": "CRM.API\\wwwroot\\CRM-Frontend\\js\\api.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-18T10:59:39.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CRM.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CRM.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-18T10:41:35.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CRM.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\appsettings.Development.json",
+              "RelativeToolTip": "CRM.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-18T10:41:32.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "notes.html",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\notes.html",
+              "RelativeDocumentMoniker": "CRM.API\\wwwroot\\CRM-Frontend\\notes.html",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\notes.html",
+              "RelativeToolTip": "CRM.API\\wwwroot\\CRM-Frontend\\notes.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-18T10:41:30.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CRM.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\appsettings.json",
+              "RelativeToolTip": "CRM.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-18T10:41:27.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "login.js",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\js\\login.js",
+              "RelativeDocumentMoniker": "CRM.API\\wwwroot\\CRM-Frontend\\js\\login.js",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\js\\login.js",
+              "RelativeToolTip": "CRM.API\\wwwroot\\CRM-Frontend\\js\\login.js",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-18T10:40:46.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "notes.js",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\js\\notes.js",
+              "RelativeDocumentMoniker": "CRM.API\\wwwroot\\CRM-Frontend\\js\\notes.js",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\js\\notes.js",
+              "RelativeToolTip": "CRM.API\\wwwroot\\CRM-Frontend\\js\\notes.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-18T10:10:07.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20260318100331_FollwUp.cs",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Migrations\\20260318100331_FollwUp.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Migrations\\20260318100331_FollwUp.cs",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Migrations\\20260318100331_FollwUp.cs",
+              "RelativeToolTip": "CRM.API\\Migrations\\20260318100331_FollwUp.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwCMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T10:03:31.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "dashboard.js",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\js\\dashboard.js",
+              "RelativeDocumentMoniker": "CRM.API\\wwwroot\\CRM-Frontend\\js\\dashboard.js",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\js\\dashboard.js",
+              "RelativeToolTip": "CRM.API\\wwwroot\\CRM-Frontend\\js\\dashboard.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-18T09:51:27.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "dashboard.js",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\js\\dashboard.js",
+              "RelativeDocumentMoniker": "CRM.API\\wwwroot\\CRM-Frontend\\js\\dashboard.js",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\js\\dashboard.js",
+              "RelativeToolTip": "CRM.API\\wwwroot\\CRM-Frontend\\js\\dashboard.js",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-18T09:51:21.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "auth.js",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\js\\auth.js",
+              "RelativeDocumentMoniker": "CRM.API\\wwwroot\\CRM-Frontend\\js\\auth.js",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\js\\auth.js",
+              "RelativeToolTip": "CRM.API\\wwwroot\\CRM-Frontend\\js\\auth.js",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-18T09:48:33.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "login.html",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\login.html",
+              "RelativeDocumentMoniker": "CRM.API\\wwwroot\\CRM-Frontend\\login.html",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\login.html",
+              "RelativeToolTip": "CRM.API\\wwwroot\\CRM-Frontend\\login.html",
+              "ViewState": "AgIAANQAAAAAAAAAAAAgwOkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-18T09:43:50.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Models\\User.cs",
+              "RelativeToolTip": "CRM.API\\Models\\User.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:14:03.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Helpers\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Helpers\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Helpers\\JwtHelper.cs",
+              "RelativeToolTip": "CRM.API\\Helpers\\JwtHelper.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:06:09.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20260318065008_FollowUp.cs",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Migrations\\20260318065008_FollowUp.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Migrations\\20260318065008_FollowUp.cs",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Migrations\\20260318065008_FollowUp.cs",
+              "RelativeToolTip": "CRM.API\\Migrations\\20260318065008_FollowUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:50:08.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FollowUpController.cs",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Controllers\\FollowUpController.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Controllers\\FollowUpController.cs",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Controllers\\FollowUpController.cs",
+              "RelativeToolTip": "CRM.API\\Controllers\\FollowUpController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:17:01.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20260318061451_AddFollowUp.cs",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Migrations\\20260318061451_AddFollowUp.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Migrations\\20260318061451_AddFollowUp.cs",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Migrations\\20260318061451_AddFollowUp.cs",
+              "RelativeToolTip": "CRM.API\\Migrations\\20260318061451_AddFollowUp.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:14:51.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LeadScoreController.cs",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Controllers\\LeadScoreController.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Controllers\\LeadScoreController.cs",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Controllers\\LeadScoreController.cs",
+              "RelativeToolTip": "CRM.API\\Controllers\\LeadScoreController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T05:08:25.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20260318035830_UpdateNotificationSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Migrations\\20260318035830_UpdateNotificationSystem.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Migrations\\20260318035830_UpdateNotificationSystem.cs",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Migrations\\20260318035830_UpdateNotificationSystem.cs",
+              "RelativeToolTip": "CRM.API\\Migrations\\20260318035830_UpdateNotificationSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T03:58:30.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CRM.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAqwFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T03:29:23.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20260317112738_fixAddCreatedBy.cs",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Migrations\\20260317112738_fixAddCreatedBy.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Migrations\\20260317112738_fixAddCreatedBy.cs",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Migrations\\20260317112738_fixAddCreatedBy.cs",
+              "RelativeToolTip": "CRM.API\\Migrations\\20260317112738_fixAddCreatedBy.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:27:38.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20260317111544_AddCreatedBy.cs",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Migrations\\20260317111544_AddCreatedBy.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Migrations\\20260317111544_AddCreatedBy.cs",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Migrations\\20260317111544_AddCreatedBy.cs",
+              "RelativeToolTip": "CRM.API\\Migrations\\20260317111544_AddCreatedBy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:15:44.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "CRM.API\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:14:49.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Models\\Customer.cs",
+              "RelativeToolTip": "CRM.API\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:13:51.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "contacts.js",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\js\\contacts.js",
+              "RelativeDocumentMoniker": "CRM.API\\wwwroot\\CRM-Frontend\\js\\contacts.js",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\js\\contacts.js",
+              "RelativeToolTip": "CRM.API\\wwwroot\\CRM-Frontend\\js\\contacts.js",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAJcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-17T09:07:58.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\css\\style.css",
+              "RelativeDocumentMoniker": "CRM.API\\wwwroot\\CRM-Frontend\\css\\style.css",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\css\\style.css",
+              "RelativeToolTip": "CRM.API\\wwwroot\\CRM-Frontend\\css\\style.css",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAgwLUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-17T09:07:25.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "contacts.html",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\contacts.html",
+              "RelativeDocumentMoniker": "CRM.API\\wwwroot\\CRM-Frontend\\contacts.html",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\contacts.html",
+              "RelativeToolTip": "CRM.API\\wwwroot\\CRM-Frontend\\contacts.html",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-17T09:05:29.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "customers.html",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\customers.html",
+              "RelativeDocumentMoniker": "CRM.API\\wwwroot\\CRM-Frontend\\customers.html",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\customers.html",
+              "RelativeToolTip": "CRM.API\\wwwroot\\CRM-Frontend\\customers.html",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-17T05:24:24.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "customers.js",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\js\\customers.js",
+              "RelativeDocumentMoniker": "CRM.API\\wwwroot\\CRM-Frontend\\js\\customers.js",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\js\\customers.js",
+              "RelativeToolTip": "CRM.API\\wwwroot\\CRM-Frontend\\js\\customers.js",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAqwJ8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-17T05:22:55.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dashboard.html",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\dashboard.html",
+              "RelativeDocumentMoniker": "CRM.API\\wwwroot\\CRM-Frontend\\dashboard.html",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\wwwroot\\CRM-Frontend\\dashboard.html",
+              "RelativeToolTip": "CRM.API\\wwwroot\\CRM-Frontend\\dashboard.html",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAgwI8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-17T04:07:28.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "CRM.API\\Controllers\\ContactsController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAqwGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:01:32.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "CRM.API\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAswM0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T03:56:41.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RemindersController.cs",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Controllers\\RemindersController.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Controllers\\RemindersController.cs",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Controllers\\RemindersController.cs",
+              "RelativeToolTip": "CRM.API\\Controllers\\RemindersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T03:55:56.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Controllers\\NotificationsController.cs",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "CRM.API\\Controllers\\NotificationsController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T03:54:52.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20260317035351_AddNotificationReminder.cs",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Migrations\\20260317035351_AddNotificationReminder.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Migrations\\20260317035351_AddNotificationReminder.cs",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Migrations\\20260317035351_AddNotificationReminder.cs",
+              "RelativeToolTip": "CRM.API\\Migrations\\20260317035351_AddNotificationReminder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T03:53:51.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CRM.API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T03:52:49.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Reminder.cs",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Models\\Reminder.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Models\\Reminder.cs",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Models\\Reminder.cs",
+              "RelativeToolTip": "CRM.API\\Models\\Reminder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T03:52:11.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Models\\Notification.cs",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Models\\Notification.cs",
+              "RelativeToolTip": "CRM.API\\Models\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T03:51:16.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Program.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Harshith.Gowda\\Desktop\\harshith\\CRM-System\\CRM.API\\Program.cs",
+              "RelativeToolTip": "CRM.API\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T03:38:12.301Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

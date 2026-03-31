@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Customers</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <div class="sidebar">
+        <h2>CRM</h2>
+        <a href="dashboard.html">Dashboard</a>
+        <a href="customers.html">Customers</a>
+        <a href="contacts.html">Contacts</a>
+        <a href="notes.html">Notes</a>
+    </div>
+
+    <div class="content">
+
+        <h1>Customers</h1>
+
+        <!-- ADD CUSTOMER -->
+        <div class="card">
+
+            <input id="name" placeholder="Name">
+            <input id="email" placeholder="Email">
+            <input id="phone" placeholder="Phone">
+            <input id="company" placeholder="Company">
+            <input id="address" placeholder="Address">
+            <input id="status" placeholder="Status">
+
+            <button onclick="addCustomer()">Add Customer</button>
+
+            <div id="formMessage" class="message-box"></div>
+        </div>
+
+        <!-- TABLE -->
+        <div class="card">
+            <table>
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Name</th>
+                        <th>Email</th>
+                        <th>Company</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody id="customerTable"></tbody>
+            </table>
+        </div>
+
+    </div>
+
+    <!-- ✅ JS LINK (IMPORTANT) -->
+    <script src="js/customers.js?v=100"></script>
+
+</body>
+</html>
