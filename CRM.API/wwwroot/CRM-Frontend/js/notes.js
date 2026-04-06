@@ -45,8 +45,24 @@
 }
 
 const token = localStorage.getItem("token");
+const userRole = localStorage.getItem("role");
+const canDelete = userRole !== "SalesRep";
+document.addEventListener("DOMContentLoaded", () => {
+    //const role = localStorage.getItem("role");
+    
+
+    if (!canDelete) { 
+        const actionHeader = document.getElementById("actionHeader");
+        actionHeader?.remove();
+    }
+
+
+    loadNotes();
+});
 
 async function loadNotes() {
+
+
 
     const response = await fetch("/api/notes", {
 
@@ -70,9 +86,11 @@ async function loadNotes() {
 <td>${n.customerId}</td>
 <td>${n.content}</td>
 <td>
-<button onclick="deleteNote(${n.id})">
-
-Delete
+    ${
+       userRole !== "SalesRep"
+                ? `<button onclick="deleteNote(${n.id})">Delete</button>`
+                : ``
+     }
 </button>
 </td>
 </tr>

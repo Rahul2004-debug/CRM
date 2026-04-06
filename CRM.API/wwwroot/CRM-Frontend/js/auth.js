@@ -53,3 +53,5 @@ function logout() {
     // back to login page 
     window.location = "login.html";
 }
+
+
