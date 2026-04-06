@@ -41,3 +41,15 @@
         errorBox.innerText = "⚠ Server error. Check API.";
     }
 }
+
+
+function logout() {
+    try {
+        localStorage.removeItem("token");
+        localStorage.removeItem("role");
+    } catch (e) {
+        console.warn("Error clearing storage during logout", e);
+    }
+    // back to login page 
+    window.location = "login.html";
+}
